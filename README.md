@@ -1,7 +1,7 @@
 # Sorting Algorithm Visualizer 
 
 A sorting algorithm visualzier thats written in python using the tkinter library
-![Alt text](/Screenshot.jpg?raw=true)
+![Alt text](/Screenshot.png?raw=true)
 
 ## Getting Started
 simply run the gui.py program

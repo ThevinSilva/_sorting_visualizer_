@@ -1,9 +1,10 @@
 # Sorting Algorithm Visualizer 
 
 A sorting algorithm visualzier thats written in python using the tkinter library
+![Alt text](/Screenshot.jpg?raw=true)
 
 ## Getting Started
-simply sun the gui.py program
+simply run the gui.py program
 
 ### Prerequisites / Installing
 requires:
@@ -13,7 +14,10 @@ requires:
 - time
 ```
 
-both of which are in the standard library
+both of which are in the standard library.
+
+## Note
+insertion sort functionality has yet to be fully implemented
 
 ## License
 
